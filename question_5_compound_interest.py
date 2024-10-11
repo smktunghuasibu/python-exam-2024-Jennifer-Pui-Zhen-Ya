@@ -6,7 +6,7 @@
 # (a) principal (p), 
 # (b) interest rate (r), 
 # (c) time in years (t), and 
-# (d) number of periods the interest is compounded per year (n)
+# (d) number of periods the interest is compounded per year (n).
 
 def cal_matured_value(p, r, t, n):
     result = p * (1 + ((r / 100) / n) ** (n * t))
