@@ -1,7 +1,7 @@
 # Fill in the blanks for the following code.
 # Run the code at online-python.com or IDLE PYTHON before you commit the changes at github.com
 
-# This program will print out the minimum number and maximum number among four given numbers.
+# This program will print out the minimum number and maximum number among four given numbers
 
 # max_value() is a function that will return maximum number.
 def min_value(a, b, c, d):
